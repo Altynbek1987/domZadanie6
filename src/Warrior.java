@@ -1,2 +1,5 @@
-public class Warrior extends Player {
+import com.company.SuperSposobnost;
+
+public abstract  class Warrior extends Player implements SuperSposobnost {
+
 }

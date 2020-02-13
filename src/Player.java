@@ -1,7 +1,7 @@
 public class Player {
     private int Health;
     private int Damage;
-    private String Defence;
+
 
     public int getHealth() {
         return Health;
@@ -19,11 +19,4 @@ public class Player {
         Damage = damage;
     }
 
-    public String getDefence() {
-        return Defence;
-    }
-
-    public void setDefence(String defence) {
-        Defence = defence;
-    }
 }
