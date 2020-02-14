@@ -4,4 +4,7 @@ public interface SuperSposobnost {
     void SuperAtaka();
 
 
+
+
+
 }

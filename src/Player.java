@@ -1,3 +1,5 @@
+import com.company.SuperSposobnost;
+
 public class Player {
     private int Health;
     private int Damage;
@@ -18,5 +20,6 @@ public class Player {
     public void setDamage(int damage) {
         Damage = damage;
     }
+
 
 }

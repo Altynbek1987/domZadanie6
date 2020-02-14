@@ -1,4 +1,9 @@
 import com.company.SuperSposobnost;
 
-public abstract class Magical extends Player implements SuperSposobnost {
+public class Magical extends Player implements SuperSposobnost {
+    @Override
+    public void SuperAtaka() {
+
+
+    }
 }
